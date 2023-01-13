@@ -1,6 +1,6 @@
-### Hi guys, I'm Polish Dwayne Jonson
+### Hi
 
-- 🌱 I'm currently learning about java, spring boot
+- 🌱 I'm currently learning about Java and Spring boot
 <!--
 **Wojtur28/Wojtur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
