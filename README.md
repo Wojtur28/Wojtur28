@@ -8,6 +8,13 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maciej-wojturski-814b20225//) 
 
+<br/>
+<br/>
+
+### Languages and Tools:
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/highly.svg' alt='highly' height='40'>](l) 
+
  
 <!--
 **Wojtur28/Wojtur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
