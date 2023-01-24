@@ -6,13 +6,18 @@
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maciej-wojturski-814b20225//) 
+<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>
+
+
 
 
 ### Languages and Tools:
 
 
-<img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="80" width="150" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" />
+<img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="80" width="80" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" /><img height="80" width="80" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" /><img height="80" width="80" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+
+
+
 
 
  
