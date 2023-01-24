@@ -1,12 +1,13 @@
 ### Hi
 
 - 🌱 I'm currently learning about Java and Spring boot
+- 🔭 I’m currently working on <a href=”https://github.com/Wojtur28/BudgetAppv2”>BudgetAppv2</a>
 <!--
 **Wojtur28/Wojtur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
