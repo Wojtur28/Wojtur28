@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/highly.svg' alt='highly' height='40'>](l) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/highly.svg' alt='highly' height='40'>]
 
  
 <!--
