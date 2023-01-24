@@ -6,8 +6,9 @@
 
 ### Connect with me:
 
-<img src="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=1&origin=search&related_id=5968282">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maciej-wojturski-814b20225//) 
 
+ 
 <!--
 **Wojtur28/Wojtur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
