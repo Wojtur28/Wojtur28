@@ -10,7 +10,7 @@
 
 
 
-### Tech Stack::
+### Tech Stack:
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="50" width="50" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" /><img height="50" width="50" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" /><img height="50" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 
 
