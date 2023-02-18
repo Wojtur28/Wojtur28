@@ -3,18 +3,18 @@
 - 🌱 I'm currently learning about Java and Spring boot
 - 🔭 I’m currently working on <a href="https://github.com/Wojtur28/BudgetAppv2">BudgetAppv2</a>
 
+If you want to talk about projects or practice English, write boldly on discord or linkedin
+
 
 ### Connect with me:
-<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>
-
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-wojturski-814b20225/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/Wojtur#5701)
 
 
 ### Tech Stack:
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="50" width="50" src="https://spring.io/img/favicon.ico" /><img height="50" width="50" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" /><img height="50" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 
-
-
+<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ 
+ <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 
  
