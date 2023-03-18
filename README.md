@@ -1,7 +1,7 @@
 ### Hi, I'm Maciej - Programming student 
 
 - 🌱 I'm currently learning about Java Spring boot and Angular
-- 🔭 I’m currently working on <a href="https://github.com/Wojtur28/TrainingAppMVC">TrainingAppMVC</a>
+- 🔭 I’m currently working on <a href="https://github.com/Wojtur28/TrainingAppMVC">TrainingAppMVC</a> and <a href="https://github.com/Wojtur28/BudgetAppv2">BudgetAppv2</a>
 
 If you want to talk about projects or practice English, write boldly on discord or linkedin
 
