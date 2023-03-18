@@ -1,6 +1,6 @@
 ### Hi, I'm Maciej - Programming student 
 
-- 🌱 I'm currently learning about Java and Spring boot
+- 🌱 I'm currently learning about Java Spring boot and Angular
 - 🔭 I’m currently working on <a href="https://github.com/Wojtur28/TrainingAppMVC">TrainingAppMVC</a>
 
 If you want to talk about projects or practice English, write boldly on discord or linkedin
